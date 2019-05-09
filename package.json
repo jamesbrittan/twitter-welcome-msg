@@ -1,4 +1,13 @@
 {
+  "name": "twitter-welcome-msg",
+  "version": "1.0.0",
+  "description": "Test version of an automated Twitter welcome message responder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "James Brittan",
+  "license": "",
   "dependencies": {
     "twit": "^2.2.11"
   }
